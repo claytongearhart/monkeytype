@@ -1,0 +1,9 @@
+{
+  "name": "Gujarati",
+  "leftToRight": true,
+  "ligatures": true,
+  "bcp47": "gu-IN",
+  "words": [
+    "words",
+  ]
+}
