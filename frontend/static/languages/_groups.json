@@ -422,6 +422,10 @@
     "languages": ["oromo", "oromo_1k", "oromo_5k"]
   },
   {
+    "name": "gujarati",
+    "languages": ["gujarati"]
+  },   
+  {
     "name": "wordle",
     "languages": ["wordle", "wordle_1k"]
   },
